@@ -1,1 +1,1 @@
-# PrepAI: Prepare for Job interview with AI.
+# PrepAI: Prepare for job interview with AI
