@@ -1,1 +1,1 @@
-"# PrepAI" 
+# PrepAI: Prepare for Job interview with AI.
